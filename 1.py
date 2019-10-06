@@ -1,3 +1,5 @@
 print("moin moin")
 name = input("name bidde: ")
 print("Das merke ich mir", name)
+zeit = int(input())
+print(zeit)
