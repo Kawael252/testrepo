@@ -6,8 +6,8 @@ anzahl = int(input("Wie viel Zigaretten rauchst Du am Tag? "))
 anzahlmonat = anzahl * 30
 anzahljahr = anzahl * 365
 print("Das sind", anzahlmonat, "im Monat", "und", anzahljahr, "im Jahr,")
-gelogen = 10
 uebertrieben = 30
+gelogen = 10
 
 if anzahl <= gelogen:
     print("erzähl mir kein Scheiss, Du rauchst mehr!")
